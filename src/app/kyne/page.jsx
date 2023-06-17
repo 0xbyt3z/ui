@@ -74,11 +74,14 @@ function Kyne() {
         </div>
 
         <div className="absolute w-1/3 h-fit bg-gradient-to-tr from-transparent text-gray-50/10 bg-clip-text to-white top-96 right-36">
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
+          <p>
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less
+            normal distribution of letters,
+          </p>
 
           <div className="mt-10">
             <a href="" className="bg-white px-5 py-3 text-black italic font-medium flex w-fit">
-              Get Started - It's Free{" "}
+              {"Get Started - It's Free "}
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M17.25 8.25L21 12m0 0l-3.75 3.75M21 12H3" />
               </svg>
